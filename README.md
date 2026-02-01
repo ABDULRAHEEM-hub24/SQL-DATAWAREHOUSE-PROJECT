@@ -10,3 +10,9 @@ Silver Layer processes and cleanses the raw data by removing duplicates, handlin
 Gold Layer contains highly refined, aggregated, and business-ready data optimized for reporting, dashboards, and advanced analytics.
 
 The project focuses on efficient data ingestion, transformation, and optimization, enabling faster insights and better decision-making. This layered approach ensures data consistency, reusability, and performance while supporting scalable analytics solutions.
+
+📁 Repository Contents:-
+Datasets: Raw input data files.
+Docs: Documentation and architectural diagrams or instructions.
+Scripts: SQL scripts for ETL (Extract-Transform-Load) and transformations between layers.
+Tests: Tests to validate data quality or script functionality..
